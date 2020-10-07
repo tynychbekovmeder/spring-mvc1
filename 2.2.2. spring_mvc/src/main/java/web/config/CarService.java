@@ -1,6 +1,6 @@
 package web.config;
 
-import web.config.model.Car;
+import web.model.Car;
 
 import java.util.ArrayList;
 import java.util.List;
